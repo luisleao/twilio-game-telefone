@@ -1,5 +1,7 @@
 # Game interativo por telefone com a Twilio
 
+> Do you need an English Readme? [Check here!](README-en-us.md)
+
 Este jogo game foi desenvolvido para fazer uso das tecnologias de Speech do Text conectada ao serviço de media streaming da Twilio e recebendo dados através de uma ligação telefônica.
 
 O jogo é configurado a partir do arquivo game.js que possui as fases e respectivas palavras-chave. A pessoa participante do jogo pode ligar para um número Twilio que teve seu webhook configurado para a raiz dessa aplicação e ficará com uma música de espera até que o controlador do jogo dê início a partida.
